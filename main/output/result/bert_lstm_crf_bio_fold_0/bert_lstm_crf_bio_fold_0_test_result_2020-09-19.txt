@@ -1,0 +1,20 @@
+Test:  test_acc: 0.9088 - test_recall: 0.9049 - test_f1: 0.9068 - test_loss: 18702.9232
+Entity: NIHSS 	 acc: 0.8766 -	 recall: 0.8282 -	 f1: 0.8517 
+Entity: Measurement 	 acc: 0.9356 -	 recall: 0.9486 -	 f1: 0.9421 
+Entity: 1a_LOC 	 acc: 1.0000 -	 recall: 0.9091 -	 f1: 0.9524 
+Entity: 1b_LOCQuestions 	 acc: 0.9762 -	 recall: 0.9111 -	 f1: 0.9425 
+Entity: 1c_LOCCommands 	 acc: 0.9512 -	 recall: 0.9512 -	 f1: 0.9512 
+Entity: 2_BestGaze 	 acc: 0.9091 -	 recall: 0.9302 -	 f1: 0.9195 
+Entity: 3_Visual 	 acc: 0.8696 -	 recall: 0.8696 -	 f1: 0.8696 
+Entity: 4_FacialPalsy 	 acc: 0.7667 -	 recall: 0.8070 -	 f1: 0.7863 
+Entity: 5a_LeftArm 	 acc: 0.8500 -	 recall: 0.8293 -	 f1: 0.8395 
+Entity: 5b_RightArm 	 acc: 0.8378 -	 recall: 0.7750 -	 f1: 0.8052 
+Entity: 6a_LeftLeg 	 acc: 0.8889 -	 recall: 0.8205 -	 f1: 0.8533 
+Entity: 6b_RightLeg 	 acc: 0.9412 -	 recall: 0.9412 -	 f1: 0.9412 
+Entity: 7_LimbAtaxia 	 acc: 0.9512 -	 recall: 0.9286 -	 f1: 0.9398 
+Entity: 8_Sensory 	 acc: 0.8800 -	 recall: 0.8800 -	 f1: 0.8800 
+Entity: 9_BestLanguage 	 acc: 0.7818 -	 recall: 0.8600 -	 f1: 0.8190 
+Entity: 10_Dysarthria 	 acc: 0.9123 -	 recall: 0.9455 -	 f1: 0.9286 
+Entity: 11_ExtinctionInattention 	 acc: 0.8696 -	 recall: 0.8511 -	 f1: 0.8602 
+Entity: 5_Motor 	 acc: 0.8000 -	 recall: 0.5000 -	 f1: 0.6154 
+Entity: 6_Motor 	 acc: 0.7500 -	 recall: 0.6667 -	 f1: 0.7059 
